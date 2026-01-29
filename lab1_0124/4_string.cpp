@@ -12,6 +12,7 @@ int main(){
 
     cout << "your answer : " << answer << endl;
 
+    cout << "Length : " << answer.length() << endl;
     cout << "first : " << answer[0] << endl;
     cout << "last : " << answer[answer.length()-1] << endl;
 
